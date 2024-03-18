@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
     subgraph Notion_Workspace
         style Notion_Workspace fill:#f9f,stroke:#333,stroke-width:4px;
@@ -39,3 +40,4 @@ graph TD;
     Templates --> |Template 2| Template_Details
     Templates --> |Template 3| Template_Details
     Templates --> |Create New Template Button| Create_Template
+```
